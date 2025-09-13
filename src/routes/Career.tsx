@@ -21,7 +21,7 @@ const careerHistory = [
         company: "Mizuho",
         role: "Front Office Engineer",
         tenure: "2019 - 2020",
-        technologies: ["Java", "Angular", "VBA", "Spring Boot"]
+        technologies: ["Java", "Angular", "Python", "VBA", "Spring Boot"]
     }
 ]
 
